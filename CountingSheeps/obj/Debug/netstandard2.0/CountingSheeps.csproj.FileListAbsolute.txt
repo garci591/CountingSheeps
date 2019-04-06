@@ -1,0 +1,8 @@
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\bin\Debug\netstandard2.0\CountingSheeps.deps.json
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\bin\Debug\netstandard2.0\CountingSheeps.dll
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\bin\Debug\netstandard2.0\CountingSheeps.pdb
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\obj\Debug\netstandard2.0\CountingSheeps.csproj.CoreCompileInputs.cache
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\obj\Debug\netstandard2.0\CountingSheeps.AssemblyInfoInputs.cache
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\obj\Debug\netstandard2.0\CountingSheeps.AssemblyInfo.cs
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\obj\Debug\netstandard2.0\CountingSheeps.dll
+C:\Users\carlos.garciay\source\repos\CountingSheeps\CountingSheeps\obj\Debug\netstandard2.0\CountingSheeps.pdb
